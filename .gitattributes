@@ -1,0 +1,14 @@
+file filter=lfs diff=lfs merge=lfs -text
+types filter=lfs diff=lfs merge=lfs -text
+you filter=lfs diff=lfs merge=lfs -text
+track, filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+Or filter=lfs diff=lfs merge=lfs -text
+the filter=lfs diff=lfs merge=lfs -text
+need filter=lfs diff=lfs merge=lfs -text
+to filter=lfs diff=lfs merge=lfs -text
+e.g., filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,15 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'vortragvorlage.blg'
+[204] biber-MSWIN64:340> INFO - === 
+[305] Biber.pm:418> INFO - Reading 'vortragvorlage.bcf'
+[394] Biber.pm:978> INFO - Found 1 citekeys in bib section 0
+[407] Biber.pm:4401> INFO - Processing section 0
+[435] Biber.pm:4592> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[477] bibtex.pm:1713> INFO - LaTeX decoding ...
+[488] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography.bib'
+[548] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[548] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[548] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[548] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[549] bbl.pm:654> INFO - Writing 'vortragvorlage.bbl' with encoding 'UTF-8'
+[550] bbl.pm:757> INFO - Output to vortragvorlage.bbl
